@@ -20,3 +20,4 @@ branchforrebase
 branchforrebase2
 a
 remote
+local
