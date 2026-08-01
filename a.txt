@@ -25,4 +25,5 @@ ff
 ff2
 ff3
 commit
+remote
 local
