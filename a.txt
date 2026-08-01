@@ -29,3 +29,4 @@ commit
 remote
 local
 local2
+message
