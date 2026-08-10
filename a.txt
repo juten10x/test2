@@ -31,3 +31,4 @@ local
 local2
 message
 stash
+test
