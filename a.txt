@@ -32,3 +32,4 @@ local2
 message
 stash
 test
+test
